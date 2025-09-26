@@ -1,0 +1,16 @@
+REPOSITORIO GIT DEL PROYECTO
+============================
+
+URL del Repositorio: https://github.com/Khyxer/evidencia-modulos-java
+
+Instrucciones para clonar:
+git clone https://github.com/Khyxer/evidencia-modulos-java.git
+
+Información del Proyecto:
+- Nombre: Sistema Punto de Venta SENA
+- Evidencia: GA7-220501096-AA2-EV01
+- Tecnologías: Java + JDBC + MySQL
+- Grupo: NOVA348
+
+Última actualización: 25/09/2025
+Rama principal: main
